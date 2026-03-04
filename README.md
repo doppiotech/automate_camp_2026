@@ -1,4 +1,6 @@
 # automate_camp_2026
+Wichuda
+
 champ eiei
 ──────▄▌▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌
 ───▄▄██▌█ sleep sleep--------------
