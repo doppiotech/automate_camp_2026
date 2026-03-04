@@ -1,6 +1,30 @@
 # automate_camp_2026
+champ eiei
+──────▄▌▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌
+───▄▄██▌█ sleep sleep--------------
+▄▄▄▌▐██▌█ -delivery------------
+███████▌█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▌
+▀(@)▀▀▀▀(@)(@)▀▀▀▀▀▀▀▀▀▀▀(@)▀
+
+Hello
 
 KK
+
+test
+
+หยอกๆๆๆๆๆๆๆๆ
+
+แมนยู ที่ 3 
+ลิเวอ อยู่ที่ไหน???????
+แมนยู ที่ 3 
+ลิเวอ อยู่ที่ไหน???????
+แมนยู ที่ 3 
+ลิเวอ อยู่ที่ไหน???????
+แมนยู ที่ 3 
+ลิเวอ อยู่ที่ไหน???????
+
+
+#หมอลำ
 
 Kianureif
 
@@ -13,10 +37,13 @@ Kianureif
 
 test
 
+InwZa007
 champ eiei
 
-man
-
+wolves 2 - 1 liverpool
+wolves 2 - 1 liverpool
+wolves 2 - 1 liverpool
+Liverpool 7-0 Manchester United
 filmsong
 
 
@@ -35,11 +62,14 @@ f2f276cab6e991fb849d4e35008c4aed6b69ecd6
 
 PIm
 
-
+fffffffff
 
 knn
 
 
+chaowat_GG commit
+
+สวยมาก แก้ไข จาก สาขา ราชเทวี filmsong
  HEAD
 HEAD
 chaowat_GG commit
@@ -68,10 +98,15 @@ ABC Commit by chaowat
 =======
 TAN999999999999999999999
 
+<<<<<<< HEAD
 PP1234
 >>>>>>> master
 
+=======
+PP125364545665
+>>>>>>> master
 
+Sarawut K.
 
 
 
@@ -94,7 +129,7 @@ Witidtayapond
 
 
 
-Patdarin
+
 
 
 
@@ -107,4 +142,14 @@ Witidtayapond
 
 Witidtayapond
 
+<<<<<<< HEAD
+>>>>>>> master
+=======
+
+
+
+Patdarin new
+Witidtayapond
+
+jinnawat
 >>>>>>> master
