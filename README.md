@@ -119,10 +119,10 @@ Patdarin
 
 Witidtayapond
 
+>>>>>>> 3f0886fd30a4d0bc0b8f4b42c8a09886879d4a84
 
- Preaw
-
-
+<<<<<<< HEAD
+=======
 
 Witidtayapond
 
