@@ -1,6 +1,34 @@
 # automate_camp_2026
+champ eiei
+──────▄▌▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌
+───▄▄██▌█ sleep sleep--------------
+▄▄▄▌▐██▌█ -delivery------------
+███████▌█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▌
+▀(@)▀▀▀▀(@)(@)▀▀▀▀▀▀▀▀▀▀▀(@)▀
+
+Hello
 
 KK
+
+test
+
+หยอกๆๆๆๆๆๆๆๆ
+
+#SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง
+#SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง
+#SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง
+#SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง #SAVE อาโหน่ง
+แมนยู ที่ 3 
+ลิเวอ อยู่ที่ไหน???????
+แมนยู ที่ 3 
+ลิเวอ อยู่ที่ไหน???????
+แมนยู ที่ 3 
+ลิเวอ อยู่ที่ไหน???????
+แมนยู ที่ 3 
+ลิเวอ อยู่ที่ไหน???????
+
+
+#หมอลำ
 
 Kianureif
 
@@ -9,34 +37,54 @@ Thanipat
 something
 
 Tee
+Tee2
 
 Kianureif
 
 test
-=======
+
+InwZa007
 champ eiei
 
-
-
+wolves 2 - 1 liverpool
+wolves 2 - 1 liverpool
+wolves 2 - 1 liverpool
+Liverpool 7-0 Manchester United
 filmsong
 
 stang
 
 hi
 
+HEAD
+NTK
+
 Ramin yadong
+f2f276cab6e991fb849d4e35008c4aed6b69ecd6
 
 PIm
 
 
+Disk
+
+fffffffff
+master
 
 Kunanon
 
 
-<<<<<<< HEAD
 chaowat_GG commit
->>>>>>> 7ae7e0d9223dc2f66b830acf0b926fb6d8877a92
-=======
+
+สวยมาก แก้ไข จาก สาขา ราชเทวี filmsong
+ HEAD
+HEAD
+chaowat_GG commit
+7ae7e0d9223dc2f66b830acf0b926fb6d8877a92
+
+
+chaowat_GG commit
+ 89ec0c5a7468c4703f47a74c5547e7eb70134b06
+
 
 
 
@@ -56,9 +104,9 @@ Aoey
 
 TAN999999999999999999999
 
-PP1234567
+PP125364545665
 
-
+Sarawut K.
 
 
 
@@ -67,11 +115,39 @@ PP1234567
 
 
 Nutthida
+HEAD
+HEAD
 
->>>>>>> 3f0886fd30a4d0bc0b8f4b42c8a09886879d4a84
 
-<<<<<<< HEAD
-=======
+
 
 Witidtayapond
->>>>>>> ec581ee3f290e0a41ebc55e5f9e33580ddb7ba50
+
+
+
+
+
+
+
+
+Witidtayapond
+
+
+ Preaw
+
+
+
+Witidtayapond
+
+
+
+
+Patdarin new
+Witidtayapond
+
+jinnawat
+
+
+TestadNontapaht
+
+TestadNontapaht
