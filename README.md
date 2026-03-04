@@ -1,11 +1,29 @@
 # automate_camp_2026
 
+
 Kianureif
 
 
-<!-- chaowat kongsiang -->
+something
+
 Tee
 
 Kianureif
 
 test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+chaowat_GG commit
