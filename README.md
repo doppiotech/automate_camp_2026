@@ -49,7 +49,7 @@ ABC Commit by chaowat
 Nitchisa
 
 
-
+Aoey
 
 
 
@@ -65,9 +65,15 @@ TAN999999999999999999999
 
 
 
+<<<<<<< HEAD
 
 
 peanut
 Nutthida
 
 
+
+
+
+Witidtayapond
+>>>>>>> ec581ee3f290e0a41ebc55e5f9e33580ddb7ba50
